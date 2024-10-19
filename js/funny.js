@@ -1,0 +1,1 @@
+console.info("funny.js has been loaded");
